@@ -2,7 +2,7 @@
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
 workshop_repo   : "https://github.com/bartoldeman/2016-05-12-mcgill"
-workshop_site   : "http://swcarpentry.github.io/2016-05-12-mcgill"
+workshop_site   : "http://bartoldeman.github.io/2016-05-12-mcgill"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
